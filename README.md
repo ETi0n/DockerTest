@@ -8,7 +8,7 @@
 
 2. jar 파일 생성
 
-   - `./gradlw clean build`를 통해서 빌드
+   - `./gradlew clean build`를 통해서 빌드
 
 
 3. dockerfile 생성
